@@ -3,16 +3,22 @@
 ### » Myself
 - **@name >** Sirisart / 18y Male
 - **@career >** Student Developer / Com-Sci Year 1
-- **@dream >** Software-Engineer / Programmer 
+- **@dream >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
 - **@business >** [singularixty.official@gmail.com](mailto:singularixty.official@gmail.com)
 
 <a href="https://https://www.instagram.com/singularixty.journey"><img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" width="45" height="45"/></a>
 <a href="https://www.buymeacoffee.com/singularixty"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
-### » Skills & Frameworks
+### » Skills & Tools
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
+
 
 ## Github Statistics & Contribution
 ### » Overall Statistics
