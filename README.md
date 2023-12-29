@@ -32,7 +32,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>   
 
-> I primarily use on Windows, Linux for learning and study purposes.
+> I primarily use on Windows, Linux is for learning and study purposes.
 </p>
           
 
