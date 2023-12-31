@@ -1,7 +1,7 @@
 ## Welcome to Singularixty's Profile <3
 
 ### » Myself
-- **@name >** Sirisart / 18y Male
+- **@name >** Singularixty / 18y Male
 - **@nationality >** Thai / Thailand
 - **@career >** Student Developer / Com-Sci Year 1
 - **@dream >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
