@@ -6,8 +6,11 @@
 - **@dream >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
 - **@business >** [singularixty.official@gmail.com](mailto:singularixty.official@gmail.com)
 
-<a href="https://https://www.instagram.com/singularixty.journey"><img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" width="45" height="45"/></a>
-<a href="https://www.buymeacoffee.com/singularixty"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+<div>
+    <a href="https://https://www.instagram.com/singularixty.journey"><img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" width="45" height="45"/></a>
+    <a href="https://www.buymeacoffee.com/singularixty"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+</div>
+
 
 ## Skills & Tools
 #### Programming Languages & Frameworks
@@ -25,14 +28,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
-
-#### Operating System
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/512px-Linux_Mint_logo_without_wordmark.svg.png" width="40" height="40"/>   
-> I primarily use Window for coding, Other operating systems are for learning purposes
-</p>
           
 ## Profile Statistics & Contribution
 <div align="left">
@@ -44,4 +39,3 @@
 
 ![Singularixty's GitHub stats](https://github-readme-stats.vercel.app/api?username=singularixty&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singularixty&theme=github_dark&layout=compact&hide_border=true)
-
