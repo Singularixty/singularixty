@@ -38,6 +38,8 @@
           
 
 ## Github Statistics & Contribution
+<img src="https://komarev.com/ghpvc/?username=singularixty&&style=for-the-badge" align="center" height="28"/>
+
 ### » Overall Statistics
 ![Singularixty's GitHub stats](https://github-readme-stats.vercel.app/api?username=singularixty&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 ### » Top Language
