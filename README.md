@@ -31,8 +31,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/512px-Linux_Mint_logo_without_wordmark.svg.png" width="40" height="40"/>   
-
-> I primarily use Window for coding, Linux is for learning and study purposes.
+> I primarily use Window for coding, Other operating systems are for learning purposes
 </p>
           
 ## Profile Statistics & Contribution
