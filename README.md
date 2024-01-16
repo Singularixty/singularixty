@@ -5,6 +5,7 @@
 - **@career >** Student Developer / Com-Sci Year 1
 - **@dream >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
 - **@business >** [singularixty.official@gmail.com](mailto:singularixty.official@gmail.com)
+- **@website >** https://singularixty.vercel.app/
 
 <div>
     <a href="https://https://www.instagram.com/singularixty.journey"><img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" width="45" height="45"/></a>
