@@ -32,6 +32,12 @@
     <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg" width="40" height="40"/>
 </p>
+
+#### Active Projects
+<details>
+    <summary>View All</summary>
+- https://singularixty.vercel.app/
+</details>
           
 ## Profile Statistics & Contribution
 <div align="left">
