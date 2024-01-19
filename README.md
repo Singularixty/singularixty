@@ -37,6 +37,7 @@
 <details>
     <summary>View All</summary>
 • Singularixty's Website https://singularixty.vercel.app/
+• OpenDeverloperTools: https://opendevelopertools.vercel.app/
 </details>
           
 ## Profile Statistics & Contribution
