@@ -36,7 +36,7 @@
 #### Active Projects
 <details>
     <summary>View All</summary>
-• Singularixty's Website https://singularixty.vercel.app/
+• Singularixty's Website https://singularixty.vercel.app/<br>
 • OpenDeverloperTools: https://opendevelopertools.vercel.app/
 </details>
           
