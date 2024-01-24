@@ -13,7 +13,7 @@
 </div>
 
 
-## Skills & Tools
+## Experience
 #### Programming Languages
 <p align="left">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" width="40" height="40"/>
