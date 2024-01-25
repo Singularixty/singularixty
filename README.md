@@ -54,3 +54,6 @@
 
 ![Singularixty's GitHub stats](https://github-readme-stats.vercel.app/api?username=singularixty&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singularixty&theme=github_dark&layout=compact&hide_border=true)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=singularixty&layout=compact&langs_count=16&hide_border=true&custom_title=Wakatime&bg_color=00000000&hide=PHP)](https://wakatime.com/@singularixty)
+
+
