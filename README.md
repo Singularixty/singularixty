@@ -56,7 +56,7 @@
 
 <div align="left">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=singularixty&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singularixty&theme=github_dark&layout=compact&hide_border=true&langs_count=20">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singularixty&theme=github_dark&layout=compact&hide_border=true&langs_count=10">
   <br>
   <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime/?username=singularixty&layout=compact&langs_count=16&hide_border=true&custom_title=Wakatime&bg_color=00000000&hide=PHP" alt="Wakatime Stats">
 </div>
