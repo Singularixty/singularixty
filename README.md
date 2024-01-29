@@ -4,7 +4,7 @@
 - **@nationality >** Thai / Thailand
 - **@career >** Student Developer / Com-Sci Year 1
 - **@dream-career >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
-- **@interests >** Full-stacked Development, Malware Analysis and Reverse Engineering
+- **@interests >** Full-stacked Development, Computer security, Malware Analysis and Reverse Engineering
 - **@business >** [singularixty.official@gmail.com](mailto:singularixty.official@gmail.com)
 - **@website >** https://singularixty.vercel.app/
 
