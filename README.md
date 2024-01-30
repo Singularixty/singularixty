@@ -40,8 +40,12 @@
   <br>
   <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime/?username=singularixty&layout=compact&langs_count=16&hide_border=true&custom_title=Wakatime&bg_color=00000000&hide=PHP" alt="Wakatime Stats">
 </div>
-
 </details>
+
+<div>
+    <a href="https://www.buymeacoffee.com/singularixty"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+</div>
+
 
 
 
