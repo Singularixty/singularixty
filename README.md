@@ -27,13 +27,6 @@
 </p>
 </details>
 
-<details>
-<summary>~/$ active-projects</summary>
-<br>
-> **> root@singularixty: ~/$ active-projects**
-- https://singularixty.vercel.app
-</details>
-<details>
 <summary>~/$ statistics</summary>
 <br>
 
