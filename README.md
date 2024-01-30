@@ -1,7 +1,6 @@
-## Singularixty's Profile
-
+> root@singularixty: ~/$ login
 - **@name >** Singularixty / 18y Male
-- **@nationality >** Thai / Thailand
+- **@nationality >** Thai
 - **@career >** Student Developer / Com-Sci Year 1
 - **@dream-career >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
 - **@interests >** Full-stacked Development, Computer security, Malware Analysis & Reverse Engineering
