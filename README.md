@@ -4,7 +4,7 @@
 - **~/goal$ >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
 - **~/interests$ >** Full-stacked Development, Malware Analysis, Game Cheat/Anti-Cheat, & Reverse Engineering
 - **~/contact$ >** [Singularixty.official@gmail.com](mailto:singularixty.official@gmail.com)
-- **~/website$ >** [Singularixty Website](https://singularixty.vercel.app/)
+- **~/website$ >** https://singularixty.vercel.app/
 > **> root@singularixty: ~/$ experience**
 - <h5>Programming Languages</h5>
 <p align="left">
