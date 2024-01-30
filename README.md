@@ -2,9 +2,9 @@
 - **@self >** I'm Bank, 18 y/o Developer 
 - **@career >** Student Developer, Com-Sci
 - **@dream >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
-- **@interests >** Full-stacked Development, Malware Analysis, Game Cheat/Anti-Cheat, & Reverse Engineering
+- **@interests >** Full-stacked Development, Malware Analysis, Game Cheat/Anti-Cheat,<br>Brand-new Technology, & Reverse Engineering
 ## Experience
-#### Coding Languages
+#### Languages & Frameworks
 <p align="left">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" width="40" height="40"/>
@@ -12,13 +12,27 @@
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="40" height="40"/>        
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40"/>
-</p>
-
-#### Frameworks
-<p align="left">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
 </p>
+
+#### Development Tools
+<p align="left">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
+    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg" width="40" height="40"/>
+</p>
+
+#### Operating system
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" width="40" height="40"/>
+</p>
+
+> I primarily work on Windows; other operating systems are used for learning purposes.
 
 <details>
 <summary>Statistics & Contribution</summary>
