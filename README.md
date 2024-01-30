@@ -22,14 +22,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
 </p>
 
-<h5>IDE & Tools</h5>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
-    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg" width="40" height="40"/>
-</p>
 <h5>Active Projects</h5>
 <details>
     <summary>View All</summary>
