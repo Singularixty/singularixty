@@ -1,4 +1,4 @@
-> **root@singularixty: ~/$ login**
+> **> root@singularixty: ~/$ login**
 - **~/self$ >** I'm Bank, 18 y/o Developer 
 - **~/career$ >** Student Developer, Com-Sci
 - **~/goal$ >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
@@ -6,7 +6,7 @@
 - **~/contact$ >** [Singularixty.official@gmail.com](mailto:singularixty.official@gmail.com)
 - **~/website$ >** [Singularixty Website](https://singularixty.vercel.app/)
 
-> **root@singularixty: ~/$ experience**
+> **> root@singularixty: ~/$ experience**
 <h5>Programming Languages</h5>
 <p align="left">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" width="40" height="40"/>
@@ -35,7 +35,7 @@
 • https://singularixty.vercel.app/<br>
 </details>
           
-> **root@singularixty: ~/$ statistics-contribution**
+> **> root@singularixty: ~/$ statistics-n-contribution**
 <div align="left">
     <img src="https://komarev.com/ghpvc/?username=singularixty&style=for-the-badge" alt="Profile Views" height="28" style="border-radius: 5px;"/>
     <a href="https://wakatime.com/@018cf9a2-714f-466f-888b-349715e1f2ce">
