@@ -6,6 +6,11 @@
 - **~/contact$ >** [Singularixty.official@gmail.com](mailto:singularixty.official@gmail.com)
 - **~/website$ >** [Singularixty Website](https://singularixty.vercel.app/)
 
+<details>
+<summary>~detailed/$ display</summary>
+
+<br>
+
 > **> root@singularixty: ~/$ experience**
 <h5>Programming Languages</h5>
 <p align="left">
@@ -40,6 +45,10 @@
   <br>
   <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime/?username=singularixty&layout=compact&langs_count=16&hide_border=true&custom_title=Wakatime&bg_color=00000000&hide=PHP" alt="Wakatime Stats">
 </div>
+
+</details>
+
+
 
 
 
