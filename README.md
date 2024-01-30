@@ -2,7 +2,7 @@
 - **~/self$ >** I'm Bank, 18 y/o Developer 
 - **~/career$ >** Student Developer, Com-Sci
 - **~/goal$ >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
-- **~/interests$ >** Full-stacked Development, Computer security, Malware Analysis, Game Cheat/Anti-Cheat, & Reverse Engineering
+- **~/interests$ >** Full-stacked Development, Malware Analysis, Game Cheat/Anti-Cheat, & Reverse Engineering
 - **~/contact$ >** [Singularixty.official@gmail.com](mailto:singularixty.official@gmail.com)
 - **~/website$ >** [Singularixty Website](https://singularixty.vercel.app/)
 
