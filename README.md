@@ -5,14 +5,8 @@
 - **~/interests$ >** Full-stacked Development, Malware Analysis, Game Cheat/Anti-Cheat, & Reverse Engineering
 - **~/contact$ >** [Singularixty.official@gmail.com](mailto:singularixty.official@gmail.com)
 - **~/website$ >** [Singularixty Website](https://singularixty.vercel.app/)
-
-<details>
-<summary>~detailed/$ display</summary>
-
-<br>
-
 > **> root@singularixty: ~/$ experience**
-<h5>Programming Languages</h5>
+- <h5>Programming Languages</h5>
 <p align="left">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" width="40" height="40"/>
@@ -21,16 +15,17 @@
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="40" height="40"/>        
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40"/>
 </p>
-<h5>Frameworks</h5>
+
+- <h5>Frameworks</h5>
 <p align="left">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
-<details>
-<summary>Active Projects</summary>
-• https://singularixty.vercel.app/<br>
-</details>
 </p>
 
+<details>
+<summary>~/$ statistics</summary>
+
+<br>
 > **> root@singularixty: ~/$ statistics-n-contribution**
 <div align="left">
     <img src="https://komarev.com/ghpvc/?username=singularixty&style=for-the-badge" alt="Profile Views" height="28" style="border-radius: 5px;"/>
