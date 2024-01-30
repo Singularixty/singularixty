@@ -20,14 +20,12 @@
 <p align="left">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
-</p>
-
-<h5>Active Projects</h5>
 <details>
-    <summary>View All</summary>
+<summary>Active Projects</summary>
 • https://singularixty.vercel.app/<br>
 </details>
-          
+</p>
+
 > **> root@singularixty: ~/$ statistics-n-contribution**
 <div align="left">
     <img src="https://komarev.com/ghpvc/?username=singularixty&style=for-the-badge" alt="Profile Views" height="28" style="border-radius: 5px;"/>
