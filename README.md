@@ -4,7 +4,6 @@
 - **~/goal$ >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
 - **~/interests$ >** Full-stacked Development, Malware Analysis, Game Cheat/Anti-Cheat, & Reverse Engineering
 - **~/contact$ >** [Singularixty.official@gmail.com](mailto:singularixty.official@gmail.com)
-- **~/website$ >** https://singularixty.vercel.app/
 > **> root@singularixty: ~/$ experience**
 - <h5>Programming Languages</h5>
 <p align="left">
@@ -43,8 +42,11 @@
 </details>
 
 <div>
+    <a href="https://singularixty.vercel.app"><img src="https://github.com/Singularixty/singularixty/blob/latest-version/my-website-modified.png" width="150" /></a>
     <a href="https://www.buymeacoffee.com/singularixty"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 </div>
+
+
 
 
 
