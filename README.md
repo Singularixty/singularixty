@@ -19,6 +19,7 @@
 <h5>Frameworks</h5>
 <p align="left">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
 </p>
 
 <h5>IDE & Tools</h5>
