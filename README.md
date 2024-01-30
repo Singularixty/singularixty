@@ -5,6 +5,10 @@
 - **~/interests$ >** Full-stacked Development, Malware Analysis, Game Cheat/Anti-Cheat, & Reverse Engineering
 - **~/contact$ >** [Singularixty.official@gmail.com](mailto:singularixty.official@gmail.com)
 - **~/website$ >** [Singularixty Website](https://singularixty.vercel.app/)
+<details>
+<summary>~/$ experience</summary>
+<br>
+
 > **> root@singularixty: ~/$ experience**
 - <h5>Programming Languages</h5>
 <p align="left">
@@ -21,11 +25,18 @@
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
 </p>
+</details>
 
 <details>
-<summary>~/$ statistics</summary>
-
+<summary>~/$ active-projects</summary>
 <br>
+> **> root@singularixty: ~/$ active-projects**
+- https://singularixty.vercel.app
+</details>
+<details>
+<summary>~/$ statistics</summary>
+<br>
+
 > **> root@singularixty: ~/$ statistics-n-contribution**
 <div align="left">
     <img src="https://komarev.com/ghpvc/?username=singularixty&style=for-the-badge" alt="Profile Views" height="28" style="border-radius: 5px;"/>
