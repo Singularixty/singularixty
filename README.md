@@ -1,22 +1,25 @@
 ## Singularixty
-- **@self >** I'm Bank, 18 y/o Developer 
+- **@self >** Sirisart, 18 y/o
 - **@career >** Student Developer, Com-Sci
-- **@dream >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
+- **@dream-job >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
 - **@interests >** Full-stacked Development, Malware Analysis, Game Cheat/Anti-Cheat,<br>Brand-new Technology, & Reverse Engineering
 ## Experience
-#### Languages & Frameworks
+#### Career Position
+- **2020-present** *unemployed
+- **2017-2020** Scripter Junior Assistant, Roblox Lua Developer
+#### Languages/Frameworks/Databases
 <p align="left">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="40" height="40"/>        
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
 </p>
 
-#### Development Tools
+#### Development Tools/IDE
 <p align="left">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -32,7 +35,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" width="40" height="40"/>
 </p>
 
-> I primarily work on Windows; other operating systems are used for learning purposes.
+> I primarily work on Windows, Other operating systems are used for learning purposes.
 
 <details>
 <summary>Statistics & Contribution</summary>
