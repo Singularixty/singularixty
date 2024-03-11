@@ -1,5 +1,5 @@
 ## Singularixty
-- **@self >** Sirisart, 18 y/o
+- **@self >** Sirisart, 18 y/o INTJ
 - **@career >** Student Developer, Com-Sci
 - **@dream-job >** Software-Engineer / Full-stacked Programmer (Back-End Emphasis)
 - **@interests >** Full-stacked Development, Malware Analysis, Game Cheat/Anti-Cheat,<br>Brand-new Technology, & Reverse Engineering
