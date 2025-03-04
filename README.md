@@ -1,5 +1,5 @@
 ## Singular
-I am a dedicated **Computer Science student** with a strong passion for **technology, problem-solving, and languages**. I spend much of my free time writing code and exploring creative solutions to real-world challenges.  
+I am a **Computer Science student** with a strong passion for **technology, problem-solving, and languages**. I spend much of my free time writing code and exploring creative solutions to real-world challenges.  
 
 I enjoy working on a wide variety of projects, including **small to medium-sized applications**, **automation scripts**, **game development**, and **malware inspection**. My primary programming languages include **C/C++**, **C#**, and **Python**, though I am always eager to learn and adapt to new technologies.
 
