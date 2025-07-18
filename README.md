@@ -2,7 +2,7 @@
 - It's me, **Singularixty <3**
 - Currently a **Computer Science Student**
 - Preferred **Technology, Problem-solving & Languages**
-- **Star, Sponsor, or contribute** project to support me :)
+- **Star, Sponsor, or contribute** project to support me 
 
 <div align="left">
   <h6>Languages</h6>
