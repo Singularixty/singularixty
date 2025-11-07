@@ -1,6 +1,5 @@
 ## About me
 - It's me, **Singularixty <3**
-- Currently a **Computer Science Student**
 - Preferred **Technology, Problem-solving & Languages**
 - **Star, Sponsor, or contribute** project to support me 
 
